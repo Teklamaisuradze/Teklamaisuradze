@@ -1,0 +1,116 @@
+header {
+    color: blueviolet;
+}
+
+footer {
+    size: 50px;
+}
+
+footer {
+    background-color: rgb(227, 215, 239);
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+}
+
+
+header {
+    background-color: aliceblue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+
+
+}
+
+#id {
+    width: 30px;
+    height: 30 px;
+
+}
+
+#image-id {
+    width: 270px;
+    height: 370px;
+
+}
+
+#imagee-id {
+    width: 260px;
+    height: 280px;
+
+}
+
+
+#photo-id {
+    width: 420px;
+    height: 300px;
+
+
+
+
+}
+
+#about {
+    color: rgb(255, 187, 85);
+
+}
+
+#photoo-id {
+    width: 260px;
+    height: 340px;
+
+
+}
+
+
+
+#me-id {
+    width: 440;
+    height: 360px;
+
+    padding-left: 350px;
+    padding-right: 350px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sectiondiv {
+    width: 100%;
+    height: 200px;
+    padding-top: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.active { color: blue;
+
+
+
+}
